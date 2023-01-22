@@ -283,6 +283,7 @@ img {
 }
 .footer-logo {
   margin-bottom: 16px;
+
   line-height: calc(21 / 18);
 }
 .span-footer-logo {
