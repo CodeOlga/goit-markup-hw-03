@@ -61,7 +61,6 @@ body {
   letter-spacing: 0.04em;
   line-height: calc(24 / 16);
   border-radius: 4px;
-  /* border: 1px solid transparent; */
   border: none;
 }
 .current {
@@ -112,7 +111,7 @@ img {
 
 /* Header section */
 .header {
-  border-bottom: 1px solid #e7e9fc;
+  border-bottom: 1px solid var(--accent-bg-cl);
 }
 .header-container {
   display: flex;
